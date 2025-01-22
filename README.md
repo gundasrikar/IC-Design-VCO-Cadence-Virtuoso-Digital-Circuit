@@ -47,7 +47,7 @@ A D-latch implemented using emitter-coupled logic (ECL) is described, along with
 
  ![image](https://github.com/user-attachments/assets/7345b598-eb85-4758-b2f2-c5f1d6e13d2c)
 
-# Key Considerations in Layout Design for RC and EM Simulations
+# Key Considerations in Layout Design for EM Simulations
 
 <div style="text-align: justify;">
   
