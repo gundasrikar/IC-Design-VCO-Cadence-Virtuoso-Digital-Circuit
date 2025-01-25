@@ -65,8 +65,23 @@ A D-latch implemented using emitter-coupled logic (ECL) is described, along with
 
 </div>
 
+# Results
+
+**VCO's Frequency Analysis**
+
+![image](https://github.com/user-attachments/assets/95f442e9-c404-4605-9089-98c8fdddec04)
+
+**Schematic and RC Extracted Tuning Range of LC-VCO**
+
+![image](https://github.com/user-attachments/assets/a5cc6ac0-2c40-430f-a190-967314dac95f)
+
+**Phase Noise of Cross-Coupled Oscillator**
+
+![image](https://github.com/user-attachments/assets/bc05f800-e5b7-4a98-8c64-8897707103ba)
+
 # VCO + Divider + Buffers Full Layout Design
 
+The layout can still be further optimized; this is just a preliminary concept to demonstrate how the design appears when all the blocks are combined.
  ![image](https://github.com/user-attachments/assets/d038490a-ea59-40b0-b8b8-62c12b4c04b9)
 
 
