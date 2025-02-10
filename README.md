@@ -1,4 +1,4 @@
-# Voltage Controlled Oscillator(VCO) with Frequency Divider
+# Voltage Controlled Oscillator(VCO) with Frequency Divider.
 
 <div style="text-align: justify;">
   
