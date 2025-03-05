@@ -8,7 +8,7 @@ such as clock generation and phase-locked loops. Key design considerations inclu
 
 </div>
 
-# Objective and Tasks
+# Objective and Tasks.
 
 <div style="text-align: justify;">
 
