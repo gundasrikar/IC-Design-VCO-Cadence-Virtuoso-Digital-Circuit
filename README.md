@@ -79,10 +79,10 @@ A D-latch implemented using emitter-coupled logic (ECL) is described, along with
 
 ![image](https://github.com/user-attachments/assets/bc05f800-e5b7-4a98-8c64-8897707103ba)
 
-# VCO + Divider + Buffers Full Layout Design
+<!--# VCO + Divider + Buffers Full Layout Design -->
 
-The layout can still be further optimized; this is just a preliminary concept to demonstrate how the design appears when all the blocks are combined.
- ![image](https://github.com/user-attachments/assets/d038490a-ea59-40b0-b8b8-62c12b4c04b9)
+<!--The layout can still be further optimized; this is just a preliminary concept to demonstrate how the design appears when all the blocks are combined. -->
+<!-- ![image](https://github.com/user-attachments/assets/d038490a-ea59-40b0-b8b8-62c12b4c04b9) -->
 
 
 
